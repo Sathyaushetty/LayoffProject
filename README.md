@@ -8,6 +8,8 @@
 - [Conclusion](#conclusion)
 
 ### Project Overview
+This project encompasses two key phases: Data Cleaning and Exploratory Data Analysis (EDA). The primary objective is to process and analyze a dataset regarding layoffs, aiming to derive valuable insights and enhance data quality.
+
 ### Data Sources
 ### Tools
 
@@ -64,3 +66,4 @@ Groups the data by month, calculating the total number of layoffs for each month
 Groups the data by company and year, calculating the total number of layoffs for each company in each year. The results are ordered by the sum of layoffs in descending order. Furthermore, the top 5 companies with the highest layoffs in each year are identified. This analysis provides insights into how layoffs vary across different companies over the years and highlights companies with significant layoff events in specific years.
 
 ### Conclusion
+Through meticulous data cleaning processes and comprehensive exploratory analysis, this project unveils crucial insights into layoffs. The cleaned and standardized dataset, devoid of duplicates and null values, enables accurate and meaningful analysis. The EDA sheds light on critical aspects such as significant layoff events, industry trends, geographical impact, and temporal variations. These insights are instrumental in strategic decision-making, risk assessment, and understanding workforce dynamics, making this project a valuable asset for informed business actions.
